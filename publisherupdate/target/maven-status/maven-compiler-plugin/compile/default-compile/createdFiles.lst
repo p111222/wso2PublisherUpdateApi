@@ -1,0 +1,5 @@
+com\example\publisherupdate\Service\ApiService.class
+com\example\publisherupdate\Config\WebConfig.class
+com\example\publisherupdate\PublisherupdateApplication.class
+com\example\publisherupdate\Controller\ApimController.class
+com\example\publisherupdate\RestTemplateConfig\RestTemplateConfig.class
